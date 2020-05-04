@@ -1,0 +1,80 @@
+body {
+    margin :0;
+text-align: center;
+}
+
+.navbar {
+    background-color: #649d66;
+    padding: 5px 200px;
+}
+
+.container {
+    margin: 5% auto;
+    padding: 3% 7%;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Oswald', sans-serif;
+    color: #596157;
+    margin: auto;
+}
+
+p{
+    font-family: 'Muli', sans-serif;
+    font-size: 1.25rem;
+    margin: 30px 0;
+}
+
+.big-heading {
+    padding : 25% 0;
+}
+
+
+#features {
+    background-color: #649d66;
+    color: #fff;
+    position: relative;
+    padding: 50px 200px;
+}
+
+.feature-title {
+    color: #fff;
+}
+
+.feature-box {
+    padding: 4.5%;
+  }
+
+.fi {
+    height: 55%;
+    width: 55%;
+    margin-bottom: 1rem;
+}
+
+.row{
+    margin: 50px 0;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+
+#contact {
+    background-color: #649d66;
+    padding: 50px 0;
+}
+
+form {
+    width : 50%;
+    margin : auto;
+}
+
+textarea,
+input {
+    margin: 40px auto;
+}
+    
+footer {
+    text-align: center;
+}
