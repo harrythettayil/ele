@@ -22,7 +22,7 @@ h1, h2, h3, h4 {
 p{
     font-family: 'Muli', sans-serif;
     font-size: 1.25rem;
-    margin: 30px 0;
+    margin: 30px auto;
 }
 
 .big-heading {
@@ -33,7 +33,6 @@ p{
 #features {
     background-color: #649d66;
     color: #fff;
-    position: relative;
     padding: 50px 200px;
 }
 
@@ -41,13 +40,7 @@ p{
     color: #fff;
 }
 
-.feature-box {
-    padding: 4.5%;
-  }
-
 .fi {
-    height: 55%;
-    width: 55%;
     margin-bottom: 1rem;
 }
 
