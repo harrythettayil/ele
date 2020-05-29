@@ -59,13 +59,14 @@ p{
 }
 
 form {
-    width : 50%;
+    width : 25%;
     margin : auto;
 }
 
 textarea,
 input {
     margin: 40px auto;
+  
 }
     
 footer {
